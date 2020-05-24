@@ -1,3 +1,3 @@
 # UVA-solved-problems
 All the uva problems I solved
-So far solved : 31 problems
+So far solved : 40 problems
